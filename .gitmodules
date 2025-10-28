@@ -1,0 +1,3 @@
+[submodule "minidemand"]
+	path = minidemand
+	url = git@github.com:caochun/minidemand.git
