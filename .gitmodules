@@ -1,6 +1,3 @@
-[submodule "minidemand"]
-	path = minidemand
-	url = git@github.com:caochun/minidemand.git
 [submodule "docker-centos7-slurm"]
 	path = docker-centos7-slurm
 	url = https://github.com/giovtorres/docker-centos7-slurm
