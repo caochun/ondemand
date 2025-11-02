@@ -1,3 +1,6 @@
 [submodule "snaphpc"]
 	path = snaphpc
 	url = git@github.com:caochun/snaphpc.git
+[submodule "xdmod"]
+	path = xdmod
+	url = git@github.com:ubccr/xdmod.git
